@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+transformers==4.31.0
+torch
+openai
+sentencepiece
+sacremoses
